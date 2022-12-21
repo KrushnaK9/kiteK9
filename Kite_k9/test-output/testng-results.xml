@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T22:31:31 IST" name="Suite" finished-at="2022-12-14T22:33:00 IST" duration-ms="89085">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T22:31:31 IST" name="Test1" finished-at="2022-12-14T22:33:00 IST" duration-ms="89085">
+      <class name="fundModule.VerifyUserCanAddStockInWatchlist">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:31:31 IST" name="beforeClass" finished-at="2022-12-14T22:32:44 IST" duration-ms="73120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:32:44 IST" name="beforeMethod" finished-at="2022-12-14T22:32:44 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanLogin()[pri:1, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:32:44 IST" name="VerifyUserCanLogin" finished-at="2022-12-14T22:32:55 IST" duration-ms="10978" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanLogin -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:32:55 IST" name="afterMethod" finished-at="2022-12-14T22:32:55 IST" duration-ms="314" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanLogin status=SUCCESS method=VerifyUserCanAddStockInWatchlist.VerifyUserCanLogin()[pri:1, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:32:55 IST" name="beforeMethod" finished-at="2022-12-14T22:32:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="VerifyUserCanAddStock()[pri:2, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:32:55 IST" name="VerifyUserCanAddStock" finished-at="2022-12-14T22:32:59 IST" duration-ms="3530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserCanAddStock -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:32:59 IST" name="afterMethod" finished-at="2022-12-14T22:32:59 IST" duration-ms="194" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=VerifyUserCanAddStock status=SUCCESS method=VerifyUserCanAddStockInWatchlist.VerifyUserCanAddStock()[pri:2, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:fundModule.VerifyUserCanAddStockInWatchlist@7188af83]" started-at="2022-12-14T22:32:59 IST" name="afterClass" finished-at="2022-12-14T22:33:00 IST" duration-ms="770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- fundModule.VerifyUserCanAddStockInWatchlist -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
